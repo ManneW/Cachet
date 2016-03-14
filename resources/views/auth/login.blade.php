@@ -42,7 +42,7 @@
                             <div class="col-xs-2">
                                 <a class="btn btn-white btn-trans" href="{{ route('status-page') }}">
                                     <span class="text-center">
-                                        <i class="ion-home"></i>
+                                        <i class="ion ion-home"></i>
                                     </span>
                                 </a>
                             </div>
